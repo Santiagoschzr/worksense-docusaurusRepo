@@ -2,6 +2,7 @@
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)](https://santiagoschzr.github.io/worksense-docusaurusRepo/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Enabled-blue)](https://github.com/santiagoschzr/worksense-docusaurusRepo/actions)
 
 This is the official documentation site for WorkSense, built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
