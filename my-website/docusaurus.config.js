@@ -15,11 +15,15 @@ const config = {
   favicon: "img/worksenseLogo.svg",
 
   // Set the production url of your site here
-  url: "https://docs.worksense.ai",
-  baseUrl: "/",
+  url: "https://santiagoschzr.github.io",
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: "/worksense-docusaurusRepo/",
 
-  organizationName: "worksense-ai",
-  projectName: "worksense-docs",
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: "santiagoschzr", // Usually your GitHub org/user name.
+  projectName: "worksense-docusaurusRepo", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
