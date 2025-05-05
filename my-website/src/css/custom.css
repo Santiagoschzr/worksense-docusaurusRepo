@@ -1,0 +1,44 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+:root {
+  --ifm-color-primary: #ac1754;
+  --ifm-color-primary-dark: #99134a;
+  --ifm-color-primary-darker: #82103f;
+  --ifm-color-primary-darkest: #6a0d34;
+  --ifm-color-primary-light: #c31f63;
+  --ifm-color-primary-lighter: #d33c77;
+  --ifm-color-primary-lightest: #e86b97;
+
+  --ifm-color-secondary: #f4f7fa;
+  --ifm-color-dark: #1f1f1f;
+  --ifm-color-light: #ffffff;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] {
+  --ifm-color-primary: #f06b97; /* Soft pink — good contrast on dark */
+  --ifm-color-primary-dark: #d24f75; /* Slightly more neutral than db4f7f */
+  --ifm-color-primary-darker: #b94264;
+  --ifm-color-primary-darkest: #8f2f4a; /* Deeper, more contrast for buttons or hovers */
+
+  --ifm-color-primary-light: #f78cab;
+  --ifm-color-primary-lighter: #fab1c6; /* Reduced saturation slightly for balance */
+  --ifm-color-primary-lightest: #fde0e7;
+
+  --ifm-color-secondary: #d88db0; /* Muted purple-pink to contrast with primary */
+  --ifm-color-dark: #f0f0f0; /* Light text for dark backgrounds */
+  --ifm-color-light: #121212; /* Slightly darker than #151515, more OLED-friendly */
+
+  --docusaurus-highlighted-code-line-bg: rgba(
+    255,
+    255,
+    255,
+    0.06
+  ); /* Softer line highlighting */
+}
