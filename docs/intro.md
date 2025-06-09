@@ -16,28 +16,18 @@ This documentation will help you understand and use the Worksense API effectivel
 
 ## Quick Links
 
-- [API Overview](/docs/api/overview)
-- [Swagger API Full Documentation](http://cg84cocoscc04c8s4gckwok4.4.236.22.176.sslip.io/api-docs/#/)
+- [Swagger API Full Documentation](https://crdigital-worksense-production-4f0f.up.railway.app/api-docs/)
 
 ## Getting Started
 
 ### Base URLs
 
-- **Base URL API**: `http://cg84cocoscc04c8s4gckwok4.4.236.22.176.sslip.io`
-- **API Docs**: `http://cg84cocoscc04c8s4gckwok4.4.236.22.176.sslip.io/api-docs/#/`
-- **Frontend Application**: `http://worksense.4.236.22.176.sslip.io/`
+- **Base URL API**: ` https://crdigital-worksense-production-4f0f.up.railway.app`
+- **API Docs**: `https://crdigital-worksense-production-4f0f.up.railway.app/api-docs/`
+- **Frontend Application**: `https://frontend-preprod-s4-production.up.railway.app/login`
 
 To get started with Worksense :
 
 1. **Create an Account**: Request Credentials at our Contact info page [Worksense Wiki](https://sharp-tangerine-946.notion.site/19acb9f9e1968081a87ac03a05c4111d?v=19acb9f9e19680cc9579000cded570a9)
-2. **Navigate to Worksense**: [Worksense.app](http://worksense.4.236.22.176.sslip.io/)
+2. **Navigate to Worksense**: [Worksense.app](https://frontend-preprod-s4-production.up.railway.app/login)
 3. **Start Planning**: Use our API reference to integrate Worksense into your workflow
-
-## Technology Stack
-
-Worksense API is built with:
-
-- **Backend**: Node.js with Express
-- **Database**: SQL Server and Firebase Firestore
-- **Authentication**: JWT
-- **AI Services**: Frida AI + Softtek custom endpoints
