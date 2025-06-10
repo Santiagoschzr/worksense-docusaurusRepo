@@ -45,6 +45,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           editUrl: "https://github.com/Pansocrates03/CRDIGITAL-WORKSENSE",
         },
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },
