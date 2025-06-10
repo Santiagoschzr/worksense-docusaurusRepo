@@ -26,9 +26,9 @@ jobs:
           node-version: 18
           cache: "npm"
       - name: Install dependencies
-        run: npm ci
-      - name: Build with Docusaurus
-        run: npm run build
+        run: |
+          npm install
+          npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
